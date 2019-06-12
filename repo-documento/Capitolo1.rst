@@ -4,7 +4,7 @@
 All’indirizzo https://git-scm.com/ scaricare l’ultima versione
 disponibile di Git per Windows.
 
-.. image:: 00.svg
+.. image:: 00.jpg
 
 Seguire la procedura di installazione (wizard) fino al suo
 completamento.
