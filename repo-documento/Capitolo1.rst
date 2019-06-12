@@ -4,7 +4,7 @@
 All’indirizzo https://git-scm.com/ scaricare l’ultima versione
 disponibile di Git per Windows.
 
-<img src="https://github.com/christianporcedda/linee-guida-git/blob/master/italia-conf/assets/image/00.png" width="800">
+.. image:: 00.png
 
 Seguire la procedura di installazione (wizard) fino al suo
 completamento.
@@ -13,7 +13,8 @@ completamento.
 
 **Step 01 di 11**
 
-:ref: Capitolo1.rst 00
+<img src="01.png" width="500">
+
 ---
 
 **Step 02 di 11**
