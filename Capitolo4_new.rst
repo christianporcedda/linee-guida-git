@@ -87,3 +87,19 @@ scegliete il **livello di visibilità**. Infine cliccate su **"Create project""*
 <img src="18.png" width="800">
 
 ---
+
+4.5 **Init**
+--------------
+
+Attraverso il comando **git init** si potrà tenere traccia di un
+progetto locale e trasformare la directory che ospita il nostro codice
+in un repository per il versioning.
+
+Dalla directory locale del progetto l’esecuzione del comando git init
+creerà una nuova sottodirectory .git che conterrà i file del repository.
+
+Per poter, successivamente, inserire il progetto nel repository
+aziendale si dovrà eseguire il comando:
+
+**git remote add origin
+git@git.intranet.sardegnait.it:user/progetto.git**
