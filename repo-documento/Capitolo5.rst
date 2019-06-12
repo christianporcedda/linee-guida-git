@@ -17,7 +17,7 @@ versionati.
 *# On branch master*
 
 *nothing to commit, working directory clean*
-~~
+-----------------------------------------------------------------------
 
 -  Nel caso in cui, invece, al progetto in locale sia stato aggiunto un
    nuovo file (es. analisi.txt) il comando git status restituirebbe una
