@@ -10,7 +10,9 @@ completamento.
 --------------
 
 **Step 01 di 11**
+
 <img src="italia-conf/assets/image/00.png" width="600">
+
 --------------
 
 **Step 02 di 11**
