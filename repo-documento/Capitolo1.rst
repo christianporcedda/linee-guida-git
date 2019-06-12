@@ -4,7 +4,7 @@
 All’indirizzo https://git-scm.com/ scaricare l’ultima versione
 disponibile di Git per Windows.
 
-.. image:: 00.jpg
+.. image:: https://d3kqgz5iyf5gxy.cloudfront.net/PRDXN/CRTV+2019/It's+Not+Stock/Translations/Italian/Spinning+stock/728x90+Spinning+stock.mp4
 
 Seguire la procedura di installazione (wizard) fino al suo
 completamento.
