@@ -55,3 +55,13 @@ cliccare il tasto verde in altro a sinistra con scritto **"New"**.
 
 ---
 
+<img src="15.png" width="800">
+
+---
+
+Nella pagina che segue assegnate un **nome** al repository, una **descrizione** (se volete)
+e scegliete il **livello di visibilità**. Infine cliccate su **"Create repository""**.
+
+---
+
+<img src="16.png" width="800">
