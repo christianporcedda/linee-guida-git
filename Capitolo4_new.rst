@@ -65,3 +65,17 @@ e scegliete il **livello di visibilità**. Infine cliccate su **"Create reposito
 ---
 
 <img src="16.png" width="800">
+
+---
+
+
+4.4 **Creare un Repository su GitLab Aziandale**
+-------------------------------------------------
+Per creare un Repository su GitLab è necessario registrarsi su GitLab (o accedervi) e
+cliccare il tasto verde con scritto **"New Project"**. 
+
+---
+
+<img src="17.png" width="800">
+
+---
