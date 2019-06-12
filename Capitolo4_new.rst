@@ -113,3 +113,15 @@ Dalla directory di progetto l’esecuzione del comando git add \*
 consentirà di aggiungere all’area di stage i file che si intende
 monitorare (nel caso git add sia seguito da un \* verranno aggiunti
 tutti i file).
+
+4.7 **Commit**
+------------
+
+Il comando **git commit** consente di completare il monitoraggio dei
+file nel repository locale.
+
+Dopo l’esecuzione del comando git add si procede con il comando **git
+commit –m** **‘descrizione operazione’**.
+
+L’opzione –m ‘….’ Consente di inserire un testo descrittivo delle
+modifiche eseguite.
