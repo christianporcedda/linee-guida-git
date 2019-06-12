@@ -125,7 +125,7 @@ Nel caso in cui si intenda escludere uno specifico file da un successivo
 commit (rimozione dall’area di stage) il comando da utilizzare
 corrisponde a **git reset HEAD <file>**.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------
 *$ git status*
 
 *On branch master*
@@ -137,12 +137,12 @@ corrisponde a **git reset HEAD <file>**.
 *modified: analisi.txt*
 
 *modified: documentazione.txt*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------
 
 Nell’esempio si mostra la rimozione del file analisi.txt dalla lista dei
 file da committare:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------
 *$*\ **git reset HEAD analisi.txt**
 
 *Unstaged changes after reset:*
@@ -167,7 +167,7 @@ file da committare:
 directory)*
 
 *modified: analisi.txt*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------
 
 6.6 **Annullare una modifica**
 ----------------------------
@@ -182,7 +182,7 @@ Il sistema ci informa, inoltre, che è possibile annullare le modifiche
 
 Nello specifo l’esecuzione del comando porterebbe a\ *:*
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------------------------
 *$ git checkout – analisi.txt*
 
 *$ git status*
@@ -194,7 +194,7 @@ Nello specifo l’esecuzione del comando porterebbe a\ *:*
 *(use "git reset HEAD <file>..." to unstage)*
 
 *modified: documentazione.txt*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------
 
 6.7 **Fork: lavorare con diversi utenti**
 -------------------------------------------
