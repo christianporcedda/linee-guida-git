@@ -36,4 +36,16 @@ Questo comando, eseguito in ambiente locale, creerà una directory
 dati di progetto ed un file **.git** attraverso il quale si effettuerà
 il controllo dell’ultima versione scaricata.
 
+4.2 **Clone in una directory diversa**
+----------------------------------------
+
+Una ulteriore possibilità consiste nel definire un nome diverso alla
+directory di destinazione (locale). Questo è possibile eseguendo il
+comando
+
+**git@git.intranet.sardegnait.it:user/progetto.git altro_nome_progetto**
+
+**altro_nome_progetto**. Corrisponde al nome della directory che si
+vuole creare
+
 
