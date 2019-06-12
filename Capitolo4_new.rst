@@ -103,3 +103,13 @@ aziendale si dovrà eseguire il comando:
 
 **git remote add origin
 git@git.intranet.sardegnait.it:user/progetto.git**
+
+4.6 **Add**
+----------
+
+Il tracciamento dei file avviene attraverso il comando **git add**.
+
+Dalla directory di progetto l’esecuzione del comando git add \*
+consentirà di aggiungere all’area di stage i file che si intende
+monitorare (nel caso git add sia seguito da un \* verranno aggiunti
+tutti i file).
