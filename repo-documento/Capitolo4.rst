@@ -1,15 +1,15 @@
 4. **Sequenza dei comandi git**
 ================================
-      :name: sequenza-dei-comandi-git
+      git sequenza-dei-comandi-git
 
 4.1 **Clone**
 ----------------
-         :name: clone
+         git clone
 
 Per poter iniziare ad operare su un progetto esistente sul repository
 aziendale è necessario effettuare una copia locale tramite il comando:
   
-**git clone [url]**
+**git clone**
 
 L’esecuzione del comando git clone consente di scaricare le versioni 
 di ciascun file associato al progetto.
