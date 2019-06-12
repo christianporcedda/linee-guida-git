@@ -31,7 +31,7 @@ I comandi principali sono git branch per la creazione della
 diramazione e git checkout per il posizionamento sulla stessa.
 Ad esempio:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 *$ git branch area_svi (creazione diramazione)*
 
 *$ git checkout area_svi (posizionamento nel ramo creato)*
@@ -40,7 +40,7 @@ Ad esempio:
 
 *$ git commit -a -m 'nuovo doc' (add e commit relativo al nuovo file
 creato nel nuova branch area_svi)*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 
 Il file creato, attraverso il commit, viene “attribuito” al branch e
 non risulta facente parte dei file attribuiti al master o radice
@@ -50,11 +50,11 @@ attribuire al master.
 Nel caso, infine, si voglia ricomprendere quanto realizzato nel branch
 all’interno del master:
   
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------
 *$ git checkout master*
 
 *$ git merge* *area_svi*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
 
 6.2 **Controllo dello stato dei Branch**
 ---------------------------------------
@@ -62,7 +62,7 @@ all’interno del master:
 Si fa presente che il generico comando **git branch** consente di
 ottenere la lista dei rami correnti, es:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------
 *$ git branch*
 
 *area_svi*
@@ -70,7 +70,7 @@ ottenere la lista dei rami correnti, es:
 *\* master*
 
 *area_svi_2*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 L’asterisco indica in quale branch siamo posizionati.
 
@@ -78,22 +78,22 @@ Un ulteriore controllo può riguardare la verifica di quali branch siano
 stati fusi nel ramo master principale. Attraverso il comando **git
 branch –merged**, es:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 *$ git branch --merged*
 
 *area_svi*
 
 *\* master*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------
 
 Al contrario il comando **git branch –no-merged** permette di
 visualizzare i branch non ancora fusi nel master principale, es:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------
 *$ git branch –no-merged*
 
 *area_svi_2*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------
 
 6.3 **Inserire immagini**
 -----------------------------
