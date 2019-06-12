@@ -1,0 +1,21 @@
+projects:
+  - name: Linee guida GIT
+description: Linee guida per l'utilizzo della piattaforma      Git
+
+    documents:
+
+     - Indice
+
+-Capitolo_1 Installazione Git
+
+-Capitolo_2 Abilitazione e accesso GIT tramit)e account                    aziendale
+
+-Capitolo_3 Git – Stati e sezioni di progetto
+
+-Capitolo_4  Sequenza dei comandi git
+
+-Capitolo_5 Controllo dello stato dei file
+
+-Capitolo_6 Visualizzare le differenze
+
+-Capitolo_7 Documentazione tecnica
