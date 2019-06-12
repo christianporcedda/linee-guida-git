@@ -11,19 +11,19 @@ versionati.
    l’esecuzione del comando git status restituirebbe una situazione del
    tipo:
    
------------------------------------------------------------------------
+___________________________________________________________________________
 *$ git status*
 
 *# On branch master*
 
 *nothing to commit, working directory clean*
------------------------------------------------------------------------
+___________________________________________________________________________
 
 -  Nel caso in cui, invece, al progetto in locale sia stato aggiunto un
    nuovo file (es. analisi.txt) il comando git status restituirebbe una
    situazione del tipo:
    
------------------------------------------------------------------------
+___________________________________________________________________________
 *$ git status*
 
 *On branch master*
@@ -36,7 +36,7 @@ versionati.
 
 *nothing added to commit but untracked files present (use "git add" to
 track)*
------------------------------------------------------------------------
+________________________________________________________________________
 In questa situazione è emersa la presenza di un nuovo file non ancora
 tracciato e la necessità di eseguire il comando git add nel caso lo si
 voglia ricomprendere tra i file da sottoporre a versionamento.
@@ -46,7 +46,7 @@ voglia ricomprendere tra i file da sottoporre a versionamento.
    L’esecuzione del comando git status successivamente alla modifica del
    file restituirebbe una situazione del tipo:
    
-------------------------------------------------------------------------
+________________________________________________________________________
 *$ git status*
 
 *On branch master*
@@ -65,7 +65,7 @@ voglia ricomprendere tra i file da sottoporre a versionamento.
 directory)*
 
 *modified: documentazione.txt*
--------------------------------------------------------------------
+________________________________________________________________________
 
 La situazione rappresentata espone sia il nuovo file aggiunto (vedi
 esempio precedente) sia il file documentazione.txt sottoposto a
