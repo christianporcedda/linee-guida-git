@@ -48,4 +48,10 @@ comando
 **altro_nome_progetto**. Corrisponde al nome della directory che si
 vuole creare
 
+4.3 **Creare un Repository su GitHub**
+---------------------------------------
+Per creare un Repository su GitHub è necessario registrarsi su GitHub (o accedervi),
+cliccare il tasto verde in altro a sinistra con scritto **"New"**.
+
+---
 
