@@ -156,8 +156,8 @@ git@git.intranet.sardegnait.it:scasu/ILA-SUP-02.git*
 
 ---
 
-[Capitolo Precedente](Capitolo3.md) 3. GIT - Stati e sezioni di progetto
+[Capitolo Precedente](Capitolo3.md) (3. GIT - Stati e sezioni di progetto)
 
-[Capitolo Successivo](Capitolo5.md) 5. Controllo dello stato dei file
+[Capitolo Successivo](Capitolo5.md) (5. Controllo dello stato dei file)
 
 [Indice](README_INDEX.md)
