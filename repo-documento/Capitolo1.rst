@@ -4,7 +4,7 @@
 All’indirizzo https://git-scm.com/ scaricare l’ultima versione
 disponibile di Git per Windows.
 
-.. image:: http://www.digital-marketing-epc.it/wp-content/uploads/2017/02/dimensioni-immagini-display-563x353.jpg
+.. image:: https://github.com/christianporcedda/linee-guida-git/blob/master/italia-conf/assets/image/01.png
 
 Seguire la procedura di installazione (wizard) fino al suo
 completamento.
