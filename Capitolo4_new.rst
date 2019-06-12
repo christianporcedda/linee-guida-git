@@ -79,3 +79,11 @@ cliccare il tasto verde con scritto **"New Project"**.
 <img src="17.png" width="800">
 
 ---
+Nella pagina che segue assegnate un **nome**, una **descrizione** (se volete) e 
+scegliete il **livello di visibilità**. Infine cliccate su **"Create project""**.
+
+---
+
+<img src="18.png" width="800">
+
+---
