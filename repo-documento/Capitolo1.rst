@@ -4,7 +4,7 @@
 All’indirizzo https://git-scm.com/ scaricare l’ultima versione
 disponibile di Git per Windows.
 
-.. image:: 01.png
+.. image:: https://git.intranet.sardegnait.it/cporcedda/progetto-prova/raw/4bc2bad997624feabaa5540bbd9adf667650bc57/00.png
 
 Seguire la procedura di installazione (wizard) fino al suo
 completamento.
