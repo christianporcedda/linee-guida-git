@@ -11,6 +11,7 @@ versionati.
    l’esecuzione del comando git status restituirebbe una situazione del
    tipo:
    
+---
 
 *$ git status*
 
@@ -18,11 +19,13 @@ versionati.
 
 *nothing to commit, working directory clean*
 
+---
 
 -  Nel caso in cui, invece, al progetto in locale sia stato aggiunto un
    nuovo file (es. analisi.txt) il comando git status restituirebbe una
    situazione del tipo:
    
+---
 
 *$ git status*
 
@@ -37,6 +40,8 @@ versionati.
 *nothing added to commit but untracked files present (use "git add" to
 track)*
 
+---
+
 In questa situazione è emersa la presenza di un nuovo file non ancora
 tracciato e la necessità di eseguire il comando git add nel caso lo si
 voglia ricomprendere tra i file da sottoporre a versionamento.
@@ -47,6 +52,7 @@ voglia ricomprendere tra i file da sottoporre a versionamento.
    file restituirebbe una situazione del tipo:
    
 ---
+
 *$ git status*
 
 *On branch master*
@@ -65,6 +71,7 @@ voglia ricomprendere tra i file da sottoporre a versionamento.
 directory)*
 
 *modified: documentazione.txt*
+
 ---
 
 La situazione rappresentata espone sia il nuovo file aggiunto (vedi
