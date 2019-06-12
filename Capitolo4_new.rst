@@ -125,3 +125,28 @@ commit –m** **‘descrizione operazione’**.
 
 L’opzione –m ‘….’ Consente di inserire un testo descrittivo delle
 modifiche eseguite.
+
+4.8 **Push**
+---------
+
+Attraverso il comando git push quanto monitorato in locale può essere
+riportato sul repository aziendale.
+
+In sintesi, nel caso di progetto locale preesistente (punto 3.3.2), si
+riportano i comandi da eseguire per l’aggiornamento del repository
+aziendale:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*git init*
+
+*git remote add origin
+git@git.intranet.sardegnait.it:scasu/ILA-SUP-02.git*
+
+*git add .*
+
+*git commit –m ‘descrizione operazione’*
+
+*git push -u origin master*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+---
